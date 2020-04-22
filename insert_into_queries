@@ -1,0 +1,10 @@
+insert into Author values("sanketbuBunage@gmail.com","sanket", "buBunage");
+insert into Paper values(1,"sanketbuBunage@gmail.com","Algo", "Algorithm", "Algo.sql");
+insert into Reviewer values("utkarsha.buBunage@gmail.com","Utkarsha", "Good", "Bunage", "Good","1021222109","Pace University",1);
+insert into Review values("utkarsha.buBunage@gmail.com", "changes", 1, 10, 1, 10, 10, 10, 10);
+insert into Topic values("utkarsha.buBunage@gmail.com", 1, "DataScience");
+insert into Author values("abha.h.pandit","abha", "pandit");
+insert into Paper values(2,"abha.h.pandit","Human Science", "Human Science Demo", "HumanDBMS.sql");
+insert into Reviewer values("sanjaybunge@gmail.com","Sanjay", "Excellent", "Bunage", "Good","1021222105","UTD",2);
+insert into Review values("sanjaybunge@gmail.com", "changes", 2, 10, 2, 10, 10, 10, 10);
+insert into Topic values("sanjaybunge@gmail.com", 2, "Human Science");

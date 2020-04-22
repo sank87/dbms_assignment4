@@ -1,0 +1,5 @@
+select * FROM Author;
+select * FROM Paper;
+select * FROM Reviewer;
+select * FROM Review;
+select * FROM Topic;
